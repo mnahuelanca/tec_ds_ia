@@ -41,5 +41,17 @@ Programa de la carrera.
 
 
 ------------
+####Programas y lenguajes utilizados. 
+* **Programacion**: 
+		PSeint
+		Visual Studio Code
+		Python
+* **Bases de datos**: 
+		DBeaver
+		My Sql Workbench
+		Sql
+* **Probabilidad y estadistica**: 
+		InfoStat
 
+------------
 **Instituto**: [Politécnico Malvinas Argentinas. Tierra del Fuego.](https://politecnico.tdf.gob.ar/ "Politécnico Malvinas Argentinas. Tierra del Fuego.")

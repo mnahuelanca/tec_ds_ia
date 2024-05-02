@@ -41,7 +41,7 @@ Programa de la carrera.
 
 
 ------------
-####Programas y lenguajes utilizados. 
+#### Programas y lenguajes utilizados. 
 * **Programacion**: 
 		PSeint
 		Visual Studio Code

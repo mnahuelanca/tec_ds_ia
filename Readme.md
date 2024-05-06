@@ -42,15 +42,18 @@ Programa de la carrera.
 
 ------------
 #### Programas y lenguajes utilizados. 
-* **Programacion**: 
+* **Programacion**:
+  
 		PSeint
 		Visual Studio Code
 		Python
-* **Bases de datos**: 
+* **Bases de datos**:
+  
 		DBeaver
 		My Sql Workbench
 		Sql
-* **Probabilidad y estadistica**: 
+* **Probabilidad y estadistica**:
+  
 		InfoStat
 
 ------------

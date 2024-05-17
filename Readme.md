@@ -6,12 +6,13 @@ Programa de la carrera.
 
 **1er año - 1er cuatrimestre** 
 
-* Matematicas orientada al pensamiento computacional
-* Logica
-* Ingles tecnico 1
-* Programacion 1
-* Bases de datos
-* Probabilidad y estadistica
+
+* [Matematicas orientada al pensamiento computacional](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Matematica%20orientada%20al%20pensamiento%20computacional "Matematicas orientada al pensamiento computacional")
+* [Logica](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Logica "Logica")
+* [Ingles tecnico 1](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Ingles%20tecnico%201 "Ingles tecnico 1")
+* [Programacion 1](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Programacion%201 "Programacion 1")
+* [Bases de datos](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Bases%20de%20datos "Bases de datos")
+* [Probabilidad y estadistica](https://github.com/mnahuelanca/tec_ds_ia/tree/main/Probabilidad%20y%20estadistica "Probabilidad y estadistica")
 
 **1er año - 2do cuatrimestre**
 

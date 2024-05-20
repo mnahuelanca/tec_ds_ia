@@ -57,5 +57,9 @@ Programa de la carrera.
   
 		InfoStat
 
+* **Logica**:
+  
+		Prolog
+
 ------------
 **Instituto**: [Politécnico Malvinas Argentinas. Tierra del Fuego.](https://politecnico.tdf.gob.ar/ "Politécnico Malvinas Argentinas. Tierra del Fuego.")

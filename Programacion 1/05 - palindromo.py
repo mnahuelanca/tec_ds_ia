@@ -4,8 +4,8 @@
 
 def palindromo():
     while True:
-        palabra = input("Escribe una palabra: ")
-        palabra_original = palabra.replace(" ", "").lower()  # Elimina los espacios y transforma a minúsculas
+        palabra = input("Escribe una palabra: ").lower()
+        palabra_original = palabra.replace(" ", "").replace(",", "").replace(".", "")
         palabra_invertida = palabra_original[::-1]  # Invierte la palabra
         if palabra_original == palabra_invertida:
             print("Es palindromo")
